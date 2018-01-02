@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="equipos">
+    <item>Deportivo Alavés</item>
+    <item>Athletic Club Bilbao</item>
+    <item>Atlético de Madrid</item>
+    <item>F.C. Barcelona</item>
+    <item>Real Betis Balonpié</item>
+    <item>Real Club Celta de Vigo</item>
+    <item>Real Club Deportivo de La Coruña</item>
+    <item>S.D. Eibar</item>
+    <item>Real Club Deportivo Espanyol</item>
+    <item>Getafe C.F.</item>
+    <item>Girona F.C.</item>
+    <item>U.D. Las Palmas</item>
+    <item>C.D. Leganés</item>
+    <item>Levante U.D.</item>
+    <item>Real Madrid C.F.</item>
+    <item>Real Sociedad de Fútbol</item>
+    <item>Sevilla F.C.</item>
+    <item>Valencia C.F.</item>
+    <item>Villarreal C.F.</item>
+
+
+</string-array></resources>
